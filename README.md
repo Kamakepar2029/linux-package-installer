@@ -1,2 +1,2 @@
 # linux-package-installer
-Linux Package installer. Complete. Version 1.0
+Linux Package installer. Complete. Version 1.1
